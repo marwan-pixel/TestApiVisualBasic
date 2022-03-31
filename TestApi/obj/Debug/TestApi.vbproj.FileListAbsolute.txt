@@ -1,0 +1,15 @@
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\TestApi.exe.config
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\TestApi.exe
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\TestApi.pdb
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\TestApi.xml
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\Nancy.dll
+C:\Users\Harya\source\repos\TestApi\TestApi\bin\Debug\Nancy.xml
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.vbprojAssemblyReference.cache
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.Form1.resources
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.Resources.resources
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.vbproj.GenerateResource.cache
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.vbproj.CoreCompileInputs.cache
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.vbproj.CopyComplete
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.exe
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.xml
+C:\Users\Harya\source\repos\TestApi\TestApi\obj\Debug\TestApi.pdb
